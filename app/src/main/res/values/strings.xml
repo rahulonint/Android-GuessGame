@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Guess Game</string>
+    <string name="guessing_number">Guessing Number</string>
+    <string name="minimum_number">Minimum Number</string>
+    <string name="button">Submit</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="guess_the_number">Guess The Number!!</string>
+    <string name="maximum_number">Maximum Number</string>
+</resources>
